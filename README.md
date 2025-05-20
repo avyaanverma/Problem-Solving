@@ -14,8 +14,3 @@ This is where I document:
 - Logic breakdowns
 - My notes, mistakes, and learnings
 - Occasional rants when LeetCode humbles me
-
----
-
-## 📚 Folder Structure
-
